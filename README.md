@@ -1,2 +1,4 @@
 # Event-Management-System
-Event Management System 
+DBMS to ![Event Management System](https://github.com/user-attachments/assets/e4949f7e-34db-43cb-b387-cf0388a83e80)
+
+The Event Management System is designed to organize data and ease the process of finding relevant information regarding an event. It consists of the core entities: Events, Venues, Organizers, Speakers (people who speak/contribute to sessions/events), and the event/action entity, Sessions. Each event is identified by its corresponding ID and is linked to the venues it occurs, including important information, e.g., venue capacity, that the organizer needs to know p. Diagram shows two instances of a session: ‘Panel Discussion’ and ‘Workshops’. Within each session, there may be a main session which can be divided into sub-sessions in a hierarchical structure. 
